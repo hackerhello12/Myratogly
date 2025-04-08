@@ -1,1 +1,1 @@
-vless://4d3bf0db-4269-40aa-8149-07ec6117bd02@107.175.37.135:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rakki.hikosu.online&fp=chrome&type=ws&sni=rakki.hikosu.online#%D0%90%D0%BC%D0%B8%D1%80
+vless://4d3bf0db-4269-40aa-8149-07ec6117bd02@104.26.6.171:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#Amir
