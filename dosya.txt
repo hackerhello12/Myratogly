@@ -1,1 +1,1 @@
-vless://922a56da-b893-4622-8dfc-4f139d56c702@95.85.14.44:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#🇳🇱Nederland[vless+cf]
+vless://922a56da-b893-4622-8dfc-4f139d56c702@95.85.51.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#%F0%9F%87%B3%F0%9F%87%B1Nederland%5Bvless%20cf%5D
