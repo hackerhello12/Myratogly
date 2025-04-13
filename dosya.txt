@@ -1,1 +1,1 @@
-vless://922a56da-b893-4622-8dfc-4f139d56c702@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ragnar.bmelikem.online&fp=chrome&type=ws&sni=ragnar.bmelikem.online#Kod
+vless://60b96e56-32d7-4bbb-bfc7-0c0059eadc92@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#🇩🇪
