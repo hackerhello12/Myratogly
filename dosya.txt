@@ -1,1 +1,1 @@
-vless://60b96e56-32d7-4bbb-bfc7-0c0059eadc92@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#🇩🇪
+vless://47c9e851-e967-4bcc-834a-a8390045b6f3@5.159.103.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#Karaka88
