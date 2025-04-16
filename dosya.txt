@@ -1,1 +1,1 @@
-vless://47c9e851-e967-4bcc-834a-a8390045b6f3@5.159.103.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#Karaka88
+vless://99e41e6d-9379-4c6e-a41e-44313a8f4073@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#%F0%9F%87%B3%F0%9F%87%B1Nederland
